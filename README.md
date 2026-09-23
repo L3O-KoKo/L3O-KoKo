@@ -13,7 +13,7 @@
 ![marmu](https://media.giphy.com/media/hovfDaAqV4GwxgSyv8/giphy.gif)
 
 <div align="center">
-  <h2>🎞️ My Creations</h2>
+  <h2>Creations</h2>
 
   <table>
     <tr>
@@ -55,26 +55,6 @@
         >
         <br>
         <b>Creation 4</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img
-          src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif"
-          width="250"
-          alt="GIF 5"
-        >
-        <br>
-        <b>Creation 5</b>
-      </td>
-      <td align="center">
-        <img
-          src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
-          width="250"
-          alt="GIF 6"
-        >
-        <br>
-        <b>Creation 6</b>
       </td>
     </tr>
   </table>
