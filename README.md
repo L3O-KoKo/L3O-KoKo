@@ -72,9 +72,10 @@ You can click the Preview link to take a look at your changes.
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+
   </div>
 </section>
-<h3 align="left">💻Learning Learning📱</h3>
+<h3 align="left">💻 LEARNING 📱</h3>
 <ul align="left">
 - 🔭 I’m currently working on .. {H0M3}
 
