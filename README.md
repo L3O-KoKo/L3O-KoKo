@@ -8,7 +8,7 @@
     <div>
 
 <div align="center">
-    <h2>M4RMU</h2>
+    <h2>🍁 M A R M U 🍁</h2>
     <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
 <div align="center">
     <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff"/>
@@ -19,7 +19,39 @@
 
 ![marmu](https://media.giphy.com/media/hovfDaAqV4GwxgSyv8/giphy.gif)
 
+<div align="center">
+  <h2>🎞️ My Creations</h2>
 
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media/hovfDaAqV4GwxgSyv8/giphy.gif"
+          width="250"
+          alt="GIF 1"
+        >
+        <br>
+        <b>Creation 1</b>
+      </td>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media/PzmDnnjQR8cCP2VVY1/giphy.gif"
+          width="250"
+          alt="GIF 2"
+        >
+        <br>
+        <b>Creation 2</b>
+      </td>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif"
+          width="250"
+          alt="GIF 3"
+        >
+        <br>
+        <b>Creation 3</b>
+      </td>
+    </
 <!--
 **MarMu-BabyDragon/MarMu-BabyDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <section id="gallery" class="py-12 my-6 bg-black/60 rounded-xl cyber-border">
   <div class="max-w-7xl mx-auto px-6 mb-6">
     <h2 class="text-2xl md:text-3xl font-black uppercase tracking-widest text-cyan-400 flex items-center gap-3">
-      <span class="w-8 h-[2px] bg-cyan-400"></span> My Creations
+      <span class="w-8 h-[2px] bg-cyan-400"></span> ART & TECH 
     </h2>
   </div>
   <div id="slider" class="flex overflow-x-auto gap-6 snap-x snap-mandatory px-6 no-scrollbar scroll-smooth">    
