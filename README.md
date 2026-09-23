@@ -1,11 +1,4 @@
 
-<p align="center"> 🍁 M A R M U 🍁</p>
-<p align="center"> 🇲🇲 </p>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&duration=2000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Hello%2C+HELLO;Welcome+To+My+GitHub+Profile,++M+A+R+M+U++🍁+R+e+t+u+r+n+🇲🇲+🇲🇲+🇲🇲)" alt="Typing SVG" />
-    <hr><br>
-    <div>
 
 <div align="center">
     <h2>🍁 M A R M U 🍁</h2>
@@ -50,6 +43,38 @@
         >
         <br>
         <b>Creation 3</b>
+      </td>
+</div>
+<div align="center">
+      </td>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
+          width="250"
+          alt="GIF 4"
+        >
+        <br>
+        <b>Creation 4</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif"
+          width="250"
+          alt="GIF 5"
+        >
+        <br>
+        <b>Creation 5</b>
+      </td>
+      <td align="center">
+        <img
+          src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+          width="250"
+          alt="GIF 6"
+        >
+        <br>
+        <b>Creation 6</b>
       </td>
     </tr>
   </table>
