@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<script src="https://unpkg.com/reicon@latest/cdn/reicon.js"></script>
-<re-icon icon="exit-fullscreen-circle"></re-icon>
-
-
 
 <p align="center"> 🍁 M A R M U 🍁</p>
 <p align="center"> 🇲🇲 </p>
@@ -17,7 +11,7 @@
     <h2>M4RMU</h2>
     <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
 <div align="center">
-    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff"/>
 
 
 [![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/techno-marmu) 
@@ -35,7 +29,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&duration=2000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Hello%2C+HELLO;Welcome+To+My+GitHub+Profile,++M+A+R+M+U++🍁+R+e+t+u+r+n+🇲🇲+🇲🇲+🇲🇲)" alt="Typing SVG" />
     <hr><br>
     <div>
-
 <div align="center">
     <h2>M4RMU</h2>
     <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
