@@ -1,156 +1,102 @@
+<div align="center">
 
+# 🍁 M A R M U 🍁
+
+### Developer • Creator • Lifelong Learner
+
+<img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+[![Profile Badge](https://img.shields.io/badge/MARMU-BABY_DRAGON-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/L3O-KoKo)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I enjoy building software, exploring new technologies, and learning how creative ideas can be turned into useful digital products.
+
+- 🔭 Currently working on personal projects and **H0M3**
+- 🌱 Learning **Frontend development, LLMs, AI, and cybersecurity fundamentals**
+- ☁️ Exploring cloud technologies with **AWS and Azure**
+- 🤝 Interested in collaborating on creative software and cloud projects
+- 💬 Ask me about programming, learning resources, or project ideas
+- 😄 Pronouns: **He/Him**
+
+---
+
+## 🎨 Art & Tech Gallery
+
+> GitHub README files do not support Tailwind CSS or JavaScript sliders. This gallery uses standard Markdown/HTML so it renders reliably on GitHub.
 
 <div align="center">
-    <h2>🍁 M A R M U 🍁</h2>
-    <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
-<div align="center">
-    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff"/>
-
-
-[![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/techno-marmu) 
-
-
-![marmu](https://media.giphy.com/media/hovfDaAqV4GwxgSyv8/giphy.gif)
-
-<div align="center">
-  <h2>Creations</h2>
-
   <table>
     <tr>
       <td align="center">
-        <img
-          src="https://media.giphy.com/media/hovfDaAqV4GwxgSyv8/giphy.gif"
-          width="250"
-          alt="GIF 1"
-        >
-        <br>
-        <b>Creation 1</b>
+        <img src="https://media.giphy.com/media/xAyivxuXqnYb3ieLRF/giphy.gif" width="280" alt="Art and technology animation">
       </td>
       <td align="center">
-        <img
-          src="https://media.giphy.com/media/PzmDnnjQR8cCP2VVY1/giphy.gif"
-          width="250"
-          alt="GIF 2"
-        >
-        <br>
-        <b>Creation 2</b>
+        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80" width="280" alt="Technology workspace">
       </td>
       <td align="center">
-        <img
-          src="https://media.giphy.com/media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif"
-          width="250"
-          alt="GIF 3"
-        >
-        <br>
-        <b>Creation 3</b>
+        <img src="https://images.unsplash.com/photo-1605792657660-596af9009e82?auto=format&fit=crop&w=800&q=80" width="280" alt="Creative technology artwork">
       </td>
-</div>
-<div align="center">
-      </td>
-      <td align="center">
-        <img
-          src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
-          width="250"
-          alt="GIF 4"
-        >
-        <br>
-        <b>Creation 4</b>
-      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Creative Work</b></td>
+      <td align="center"><b>Technology</b></td>
+      <td align="center"><b>Exploration</b></td>
     </tr>
   </table>
 </div>
-<!--
-**MarMu-BabyDragon/MarMu-BabyDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+---
 
-<section id="gallery" class="py-12 my-6 bg-black/60 rounded-xl cyber-border">
-  <div class="max-w-7xl mx-auto px-6 mb-6">
-    <h2 class="text-2xl md:text-3xl font-black uppercase tracking-widest text-cyan-400 flex items-center gap-3">
-      <span class="w-8 h-[2px] bg-cyan-400"></span> ART & TECH 
-    </h2>
-  </div>
-  <div id="slider" class="flex overflow-x-auto gap-6 snap-x snap-mandatory px-6 no-scrollbar scroll-smooth">    
-    <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
-      <img src="https://media.giphy.com/media/xAyivxuXqnYb3ieLRF/giphy.gif" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
-    </div>
-    <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
-      <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
-    </div>
-    <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
-      <img src="https://images.unsplash.com/photo-1605792657660-596af9009e82?auto=format&fit=crop&w=800&q=80" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
-    </div>
-  </div>
-</section>
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
+## 📚 Current Learning
 
-  </div>
-</section>
-<h3 align="left">💻 LEARNING 📱</h3>
-<ul align="left">
-- 🔭 I’m currently working on .. {H0M3}
+- Deepening my knowledge of Machine Learning and Artificial Intelligence
+- Exploring advanced React patterns and state management
+- Improving my cloud computing skills with AWS and Azure
+- Practicing secure and reliable software development
 
-- 🌱 I’m currently learning .. 
-{Fontend, LLM, Hacking & Ai-Bot}
+---
 
-- 👯 I’m looking to collaborate on ..
-Google & Azure Cloud ☁️ with A S€×Y Giπl
+## 🛠️ Technologies & Tools
 
-- 🤔 I’m looking for help with ..
-{My Skills}
-
-- 💬 Ask me about ... Your Password 🤭
-
-- 📫 How to reach me: .. {By Phone 📱}
-
-- 😄 Pronouns: ... {He/Him/His}
-
-- ⚡Fanny fact: ...{loading....}
-  
-</ul>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font    <img src="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=go&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img 
-src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
- </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a 
-href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-<!-- TODO: Make technologies links takes you to repositories --> 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[![Kali-Linux](https://img.shields.io/badge/Kali-Linux-1769ff?logo=behance&logoColor=white)](https://kalilinux.com/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-[![MARMU](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/)
+</div>
 
+---
 
-![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-blue?style=for-the-badge&logo=facebook.svg)
+## 📫 Connect With Me
 
-[![](https://img.shields.io/badge/Contact-Facebook_Page-purple?logo=Facebook&logoColor=blue&labelColor=black)](https://github.com/MarMu-BabyDragon) <br>
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-L3O--KoKo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L3O-KoKo)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)
 
-[![](https://img.shields.io/badge/Github-Baby_Dragon-green?logo=Github&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) <br>
+</div>
 
+---
 
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-
-
-
-<!--
-**L3O-KoKo/L3O-KoKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
+</div>
