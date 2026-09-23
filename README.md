@@ -43,12 +43,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div id="slider" class="flex overflow-x-auto gap-6 snap-x snap-mandatory px-6 no-scrollbar scroll-smooth">    
     <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
-      <img src="https://media.giphy.com/media/BmVrvUWyjrP57NINEE/giphy.gif" for class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
-    </div>
-    <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
-      <img src="https://media.giphy.com/media/OausqbMvs4PQNBqC29/giphy.gif" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
-    </div>
-    <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
       <img src="https://media.giphy.com/media/xAyivxuXqnYb3ieLRF/giphy.gif" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
     </div>
     <div class="shrink-0 w-[80vw] md:w-[45vw] aspect-video snap-center rounded cyber-border overflow-hidden relative">
