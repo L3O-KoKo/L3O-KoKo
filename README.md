@@ -105,5 +105,4 @@ I enjoy building software, exploring new technologies, and learning how creative
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake.svg">
   </picture>
 
----
 
