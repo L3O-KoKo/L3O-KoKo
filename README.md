@@ -62,7 +62,8 @@ I enjoy building software, exploring new technologies, and learning how creative
 - Improving my cloud computing skills with AWS and Azure
 - Practicing secure and reliable software development
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
+</div>
 
 ## 🛠️ Technologies & Tools
 
@@ -104,5 +105,5 @@ I enjoy building software, exploring new technologies, and learning how creative
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake.svg">
   </picture>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
-</div>
+---
+
