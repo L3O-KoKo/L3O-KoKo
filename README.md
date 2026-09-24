@@ -100,5 +100,11 @@ I enjoy building software, exploring new technologies, and learning how creative
 [![GitHub Streak](https://streak-stats.demolab.com?user=L3O-KOKO&theme=transparent&hide_border=true&card_width=350&card_height=165)](https://git.io/streak-stats)
 
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heliomarpm/heliomarpm/output/github-snake.svg">
+  </picture>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
