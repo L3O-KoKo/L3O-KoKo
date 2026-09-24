@@ -62,7 +62,7 @@ I enjoy building software, exploring new technologies, and learning how creative
 - Improving my cloud computing skills with AWS and Azure
 - Practicing secure and reliable software development
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer">
 </div>
 
 ## 🛠️ Technologies & Tools
